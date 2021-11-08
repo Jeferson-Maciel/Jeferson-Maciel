@@ -19,10 +19,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/Jeferson-Maciel/Jeferson-Maciel/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
