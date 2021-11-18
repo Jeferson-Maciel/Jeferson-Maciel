@@ -1,4 +1,4 @@
-## Ola eu me chamo Jeferson Maciel tenho 16 anos e sou  Estudante de Desenvolvimento Web sempre tentando ser melhor a cada dia. 
+## Ola eu me chamo Jeferson Maciel tenho 16 anos e sou  estudante de desenvolvimento web sempre tentando ser melhor a cada dia. 
 
 
 <div> 
