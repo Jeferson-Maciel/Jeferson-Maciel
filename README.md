@@ -4,7 +4,6 @@
   <img align="center" alt="Jeferson-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeferson-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeferson-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <a href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
@@ -13,6 +12,6 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Maciel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <a href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  style="padding 63px" href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
