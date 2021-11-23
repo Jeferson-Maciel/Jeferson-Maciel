@@ -12,6 +12,6 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Maciel&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <a  style="padding 63px" href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
