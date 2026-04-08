@@ -1,9 +1,5 @@
 # Olá, eu sou o Jeferson Maciel <img src="https://raw.githubusercontent.com/KellyS-S/KellyS-S/main/wave.gif" width="30px">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf71&height=150&section=header&text=Java%20Developer%20|%20Finance%20Expert&fontSize=40&animation=fadeIn" />
-</div>
-
 ## 📈 Onde Finanças encontram a Tecnologia
 Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem analítica do mercado financeiro para o código. Minha missão é traduzir regras de negócio complexas em sistemas escaláveis e automatizados.
 
@@ -23,14 +19,6 @@ Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem ana
 
 ---
 
-### 📊 My GitHub Metrics (Fixed & Live)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Maciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Maciel&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<br/>
 
 ### 🐍 Contribution Snake
 <div align="center">
@@ -43,12 +31,6 @@ Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem ana
 <div align="left">
   <a href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jeferson.maciel.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
