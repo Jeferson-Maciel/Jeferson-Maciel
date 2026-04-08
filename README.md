@@ -20,11 +20,6 @@ Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem ana
 ---
 
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jeferson-Maciel/Jeferson-Maciel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ### 📫 Conecte-se comigo
