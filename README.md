@@ -1,59 +1,59 @@
-# Olá, eu sou o Jeferson Maciel 👋
+# Olá, eu sou o Jeferson Maciel <img src="https://raw.githubusercontent.com/KellyS-S/KellyS-S/main/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do." alt="Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bf71&height=150&section=header&text=Java%20Developer%20|%20Finance%20Expert&fontSize=40&animation=fadeIn" />
 </div>
 
-### 🚀 Sobre Mim
-Sou um desenvolvedor focado em **Back-End (Java/Spring)**, atualmente em transição de carreira do setor financeiro para a tecnologia. Utilizo minha base analítica do mercado de capitais para construir soluções robustas, eficientes e escaláveis.
+## 📈 Onde Finanças encontram a Tecnologia
+Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem analítica do mercado financeiro para o código. Minha missão é traduzir regras de negócio complexas em sistemas escaláveis e automatizados.
 
-- 🔭 Atualmente trabalhando em projetos de **automação operacional** e **sistemas de CRM**.
-- 🌱 Estudando profundamente **Java, Spring Boot e Angular**.
-- 🎯 Focado em me tornar um desenvolvedor de alta performance e atuar em projetos internacionais.
-- 💬 Pergunte-me sobre: Investimentos, Mercado Financeiro e Desenvolvimento Java.
-
----
-
-### 🛠️ Stacks & Ferramentas
-
-**Back-End**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-**Front-End**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Databases**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🏦 **Background:** Experiência real em Middle Office e assessoria de investimentos (Ancord).
+- 💻 **Foco Atual:** Arquitetura de microsserviços com Java/Spring e interfaces dinâmicas com Angular.
+- 🌍 **Objetivo:** Projetos globais que demandam alta performance e precisão técnica.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛠️ My Tech Stack
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Back-End** | `Java` `Spring Boot` `Spring Security` `Maven` |
+| **Front-End** | `Angular` `TypeScript` `JavaScript` `HTML5/CSS3` |
+| **Data & Devops** | `PostgreSQL` `MySQL` `Git` `Docker` |
+
+---
+
+### 📊 My GitHub Metrics (Fixed & Live)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Maciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Maciel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Maciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Maciel&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jeferson-Maciel/Jeferson-Maciel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Conecte-se comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/jeferson-maciel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jeferson.maciel.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/SEUNUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%20is%20bad." />
 </div>
