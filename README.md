@@ -36,6 +36,4 @@ Sou um desenvolvedor focado em **Back-End (Java/Spring)** que traz a bagagem ana
 
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%20is%20bad." />
-</div>
+
